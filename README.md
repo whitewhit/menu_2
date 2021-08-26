@@ -1,8 +1,6 @@
 # menu_2
 
-<<<<<<< HEAD
-
-## 豬豬蛋炒飯
+## 蛋炒飯
 
 ![文字](https://imageproxy.icook.network/resize?background=255%2C255%2C255&nocrop=true&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F389551%2F97a8710b3279e144.jpg&width=443)
 
@@ -26,22 +24,35 @@
 
 ## 2步驟
 
-1.熱油熱鍋後放入大蒜末爆香
+1.將洋蔥切碎、高麗菜切小塊、蔥切成蔥花備用。
+![alt文字](https://pic.pimg.tw/twobunny/1623935182-1338065123-g.jpg)
 
-![alt文字](https://imageproxy.icook.network/resize?background=255%2C255%2C255&nocrop=true&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Fstep%2Fcover%2F1975463%2F250b87b1259433b0.jpg&width=220)
+2.起一油鍋，油熱後下兩顆雞蛋炒至半熟
 
-2.加入洋蔥丁拌炒至透明
+3.雞蛋炒至半熟即可放入肉絲、洋蔥，快速拌炒均勻。
 
-3.放入豬絞肉拌炒至肉末粒粒分明，再加入蛋液拌炒，讓肉末被蛋液包覆，增加肉末潤嫩口感
+4.肉絲七八分熟下隔夜飯，隔夜飯下鍋前可先壓鬆，拌炒時稍微用鏟子壓一壓讓飯鬆散開來～
 
-![alt文字](https://imageproxy.icook.network/resize?background=255%2C255%2C255&nocrop=true&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Fstep%2Fcover%2F1975465%2Fcae1ee93448f15d5.jpg&width=220)
+5.白飯炒鬆後下高麗菜拌炒。
 
-4.加入蔥白拌炒一下再加入綠蔥花拌炒
+6.高麗菜炒熟後加入醬油，快速拌炒均勻。
 
-5.加入煮好的飯一起拌炒
+7.起鍋前加入蔥花稍微拌炒，蔥花勿炒過久，才能保持翠綠顏色。
+![alt文字](https://pic.pimg.tw/twobunny/1623935184-1717740679-g.jpg)
 
-6.飯拌炒成粒粒分明後加入醬油、辣椒、胡椒粉和鹽巴調味，拌炒均勻即可上桌啦～
+## 小訣竅
 
-![alt文字](https://imageproxy.icook.network/resize?background=255%2C255%2C255&nocrop=true&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Fstep%2Fcover%2F1975468%2F1e554a2060312b6d.jpg&width=220)
+1.使用隔夜飯，而且最好先把飯壓鬆再下鍋，方便快速拌炒。
 
+2.會出水的蔬菜最後才加，而且要快速拌炒，勿炒過久
+
+3.醬油、醬汁只是增加顏色和香氣，加少量即可，用鹽巴來調整鹹度。
+
+## 成品
+
+![alt文字](https://pic.pimg.tw/twobunny/1623935185-3035809503-g.jpg)
+
+出處 ： [簡易食譜》肉絲蛋炒飯](https://twobunny.pixnet.net/blog/post/69684574)
 =======
+
+
