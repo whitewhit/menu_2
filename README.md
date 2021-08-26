@@ -2,25 +2,25 @@
 
 ## 蛋炒飯
 
-![alt文字](https://pic.pimg.tw/twobunny/1623935185-3035809503-g.jpg)
+![文字](https://imageproxy.icook.network/resize?background=255%2C255%2C255&nocrop=true&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F389551%2F97a8710b3279e144.jpg&width=443)
 
 ## 1材料
 
-豬肉絲 200 g
+洋蔥 1顆
 
-雞蛋 2 顆
+大蒜 5 粒
 
-洋蔥 1/4 顆
+蔥  1/2把
 
-高麗菜 1/8 顆
+米  2杯米杯
 
-蔥 1 支
+雞蛋 2顆
 
-隔夜飯 2 碗
+豬絞肉 200 g
 
-醬油 20 c.c.
+醬油  少許
 
-鹽 適量
+鹽巴  少許
 
 ## 2步驟
 
@@ -53,3 +53,6 @@
 ![alt文字](https://pic.pimg.tw/twobunny/1623935185-3035809503-g.jpg)
 
 出處 ： [簡易食譜》肉絲蛋炒飯](https://twobunny.pixnet.net/blog/post/69684574)
+=======
+
+
